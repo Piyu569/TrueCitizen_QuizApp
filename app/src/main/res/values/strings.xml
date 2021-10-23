@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TrueCitizen</string>
+    <string name="TRUE">ButtonStyle</string>
+    <string name="Button_style">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="prev_string">PREV</string>
+    <string name="next_string">NEXT</string>
+    <string name="text_view_in">Question Goes here</string>
+    <string name="image_description">Android Icon Description</string>
+    <string name="question_declaration">The (U.S) Declaration of Indecencies  was Adopted in 1776</string>
+    <string name="correct_answer">That\s correct</string>
+    <string name="wrong_answer">That\s wrong</string>
+    <string name="question_constitution">The supreme Law of Land  is the  Constitution</string>
+    <string name="question_amendments">The  U.S Constitution Has 26 Amendments</string>
+    <string name="question_independence_rights">The Two Rights in the Declaration of  Indepdencies are:
+    \n \ t <b>life</b> \n \t  <b>pursuit of happiness</b></string>
+    <string name="question_religion"> Freedom Of religion means :
+     \n \t <b>You can practice any religion, or not practice a religion</b>.</string>
+    <string name="question_government">Journalist is one  branch or part of the government.</string>
+    <string name="question_government_feds">Congress Doesn\'t make federal Laws </string>
+    <string name="question_government_senators">There are 100 U.S Senator\'s</string>
+    <string name="image_discription">set_image</string>
+</resources>
